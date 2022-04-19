@@ -2,12 +2,9 @@ package com.guimex.gtbackend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
 @SpringBootTest
-class GtbackendApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
+public class GtbackendApplicationTests {
+    @Test
+    void contextLoads() {
+    }
 }
